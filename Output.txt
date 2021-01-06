@@ -1,0 +1,34 @@
+Enter the no of tweet you want to post : 
+12
+Enter a tweet/sentence having #HasTag : 
+My name is #avanish
+Enter a tweet/sentence having #HasTag : 
+I'm from #bihar
+Enter a tweet/sentence having #HasTag : 
+I love #india
+Enter a tweet/sentence having #HasTag : 
+#india is my nation
+Enter a tweet/sentence having #HasTag : 
+#bihar is great
+Enter a tweet/sentence having #HasTag : 
+#india is fastest growing nation
+Enter a tweet/sentence having #HasTag : 
+I'm from #Aurangabad dist of #bihar
+Enter a tweet/sentence having #HasTag : 
+#Aurangabad is in south of #bihar
+Enter a tweet/sentence having #HasTag : 
+#bihar is in north-east of #india
+Enter a tweet/sentence having #HasTag : 
+#india developed the #covid vaccine 
+Enter a tweet/sentence having #HasTag : 
+#covid is dangerous
+Enter a tweet/sentence having #HasTag : 
+#great means #awesom
+Top 10 Tweets are below as : 
+Key : #india, Value : 4
+Key : #bihar, Value : 3
+Key : #Aurangabad, Value : 2
+Key : #avanish, Value : 1
+Key : #covid, Value : 1
+Key : #great, Value : 1
+
